@@ -1,0 +1,2 @@
+# TesteJornadaIA
+Jornada TechIA - EBAC
